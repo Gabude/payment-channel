@@ -1,0 +1,24 @@
+{
+  "name": "oop-output",
+  "version": "1.0.0",
+  "description": "a program that illustrates object oriented programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabude/oop-output.git"
+  },
+  "keywords": [
+    "oop",
+    "javascript"
+  ],
+  "author": "gabriella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabude/oop-output/issues"
+  },
+  "homepage": "https://github.com/Gabude/oop-output#readme"
+}
